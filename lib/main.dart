@@ -72,7 +72,7 @@ class _HomeState extends State<Home> {
                   borderRadius: BorderRadius.circular(20),
                   boxShadow: const [
                     BoxShadow(
-                      color: Colors.black45,
+                      color: Colors.white,
                       spreadRadius: .2,
                       blurRadius: 50,
                       offset: Offset(0, 10),
